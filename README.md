@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Hunt</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **React Native, Typescript, Python**
+- 🌱 I’m currently learning **ASP.Net, C#, Python**
 
-- 💬 Ask me about **React, Nodejs, PostgreSQL**
+- 💬 Ask me about **React, React Native, Nodejs, PostgreSQL**
 
 - 📫 How to reach me **andrewhunt21@icloud.com**
 
